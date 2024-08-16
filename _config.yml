@@ -41,9 +41,10 @@ avatar: "/img/whad-logo.png"
 title-on-all-pages: false
 
 # Build settings
-theme: beautiful-jekyll-theme
-plugins:
-  - jekyll-feed
+#theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@6.0.1
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

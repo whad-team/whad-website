@@ -31,10 +31,10 @@ twitter_username: jekyllrb
 github_username:  whad-team
 
 navbar-links:
-  Home: "index"
-  Install: "install"
-  Documentation: "https://whad.readthedocs.io/en/latest/"
-  Github: "https://github.com/whad-team/whad-client/"
+  <i class="fa-solid fa-house"></i> Home: "index"
+  <i class="fa-brands fa-python"></i> Install: "install"
+  <i class="fa-solid fa-book"></i> Documentation: "https://whad.readthedocs.io/en/latest/"
+  <i class="fa-brands fa-github"></i> Github: "https://github.com/whad-team/whad-client/"
 
 avatar: "/img/whad-logo.png"
 

@@ -28,7 +28,7 @@ be useful if you want to try an unstable or in-development version of **WHAD**.
 It is recommended to install **WHAD** in a virtual environment:
 
 ```
-git clone https://github.com/whad-team/whad-client.git
+git clone --recurse-submodules https://github.com/whad-team/whad-client.git
 cd whad-client
 python -m venv my_venv
 . /my_venv/bin/activate

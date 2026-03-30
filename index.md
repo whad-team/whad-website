@@ -35,6 +35,22 @@ raw de/modulation based on common schemes such as *GFSK*, *QPSK* or even *LoRa*.
 - Creating custom tools for any supported protocol
 - Combining tools to create complex on-the-fly packet processing
 
+
+## Supported hardware
+
+- Generic Bluetooth USB dongles
+- [Nordic nRF52840 USB Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle), *(flashed with
+    [our custom ButteRFly firmware](https://github.com/whad-team/butterfly))*
+- [MakerDiary nRF52840 USB dongle](https://makerdiary.com/products/nrf52840-mdk-usb-dongle), *(flashed with [our custom ButteRFly
+    firmware)[https://github.com/whad-team/butterfly])*
+- [Ubertooth One](https://greatscottgadgets.com/ubertoothone/)
+- [ApiMote](https://riverloopsecurity.com/projects/apimote/)
+- Atmel's Raven RZUSBSTICK *(obsolete, not sold anymore)*
+- [YARD Stick One](https://greatscottgadgets.com/yardstickone/)
+- [CrazyRadio PA v1](https://www.bitcraze.io/products/crazyradio-pa/) *(flashed with BastilleResearch's [RFStorm firmware](https://github.com/BastilleResearch/nrf-research-firmware))* 
+- Logitech Unifying dongle model C-U0007 *(flashed with Bastille Research's [RFStorm
+    firmware](https://github.com/BastilleResearch/nrf-research-firmware))*
+
 # Examples
 
 **WHAD** provides for instance a set of tools to capture packets into a PCAP file,

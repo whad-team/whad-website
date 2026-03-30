@@ -32,9 +32,10 @@ github_username:  whad-team
 
 navbar-links:
   <i class="fa-solid fa-house"></i> Home: "index"
-  <i class="fa-brands fa-python"></i> Install: "install"
-  <i class="fa-solid fa-book"></i> Documentation: "https://whad.readthedocs.io/en/latest/"
+  <i class="fa-solid fa-rocket"></i> Get Started: "start"
+  <i class="fa-solid fa-book"></i> Doc: "https://whad.readthedocs.io/en/latest/"
   <i class="fa-brands fa-github"></i> Github: "https://github.com/whad-team/whad-client/"
+  <i class="fa-brands fa-discord"></i> Discord: "https://discord.gg/bjNk8Sm59P"
 
 avatar: "/img/whad-logo.png"
 
